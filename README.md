@@ -384,6 +384,6 @@ lalu lihat hasilnya
 
 Hasil Outputnya
 
-![Foto](Foto/foto13.png)
+![Foto](Foto/finis.png)
 
 
