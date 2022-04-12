@@ -381,28 +381,9 @@ lalu lihat hasilnya
 </html>
 ```
 
-Tempatkan javascript tersebut tepat dibawah </body> yang nantinya. Script secara keseluruhan akan seperti berikut ini
-```html
-<script type="text/javascript">
-  function validasi_data(form) {  
-    if (form.nama.value=="") {
-      alert('nama  harus di isi !');
-      form.nama.focus();
-      return false;
-    }else if(form.tempat.value=="") {
-      alert('Tempat Lahir harus di isi !');
-      form.tempat.focus();
-      return false;
-    }
-  }
-</script>
-```
+
 Hasil Outputnya
 
 ![Foto](Foto/foto13.png)
 
-![Foto](Foto/foto14.png)
 
-Jika datanya diisinya semua
-
-![Foto](Foto/foto15.png)
