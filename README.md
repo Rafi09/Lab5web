@@ -1,6 +1,10 @@
+
+| Nama      | Rafi Ubaidillah |
+| ----------- | ----------- |
+| NIM     | 312010090      |
+| Kelas   | TI.20.A.1        |
+
 # Lab5web
-
-
 
 ## **Langkah-langkah Praktikum**
 Persiapan membuat dokumen HTML dengan nama file `lab5_javascript.html` seperti berikut.
@@ -385,5 +389,7 @@ lalu lihat hasilnya
 Hasil Outputnya
 
 ![Foto](Foto/finis.png)
+
+![Foto](Foto/10.png)
 
 
